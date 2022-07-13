@@ -6,7 +6,7 @@
 - Node.js
 - TypeScript
 
-### How to run the project
+### How to create the simple project
 
 1. Cloned [the repository from Github](https://github.com/AlexandraPopovaz/Simple-operations-in-js-ts)
 2. Created a package.json file: run `npm init --yes`
